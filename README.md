@@ -2,8 +2,6 @@
 
 Protótipo que mede a corrente de um aparelho, calcula potência, energia e custo estimado, e mostra esses valores em tempo real. O projeto foi desenvolvido na disciplina **Microcontroladores e Aplicações** (julho de 2023), na placa didática **BIG8051**, que traz um **C8051F040** com conversor A/D e memória já disponíveis na placa.
 
-**Autores:** Fernando Martins, Marcos Antonio Salami e Matheus Farias.
-
 ## Objetivo
 
 Medir a corrente de dispositivos variados e, a partir dela, obter a potência, o gasto energético e o custo monetário estimado. Os valores medidos (custo estimado, kWh e demais grandezas) podem ser enviados para um computador ou um celular.
